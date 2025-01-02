@@ -7,11 +7,11 @@ In this project, we designed a temperature and moisture measurement system based
   
 <h3 align="left">II. Software Design</h3>
 1. Circuit configuration<br>
-<a href="https://drive.google.com/uc?export=view&id=1Ooq0dr7KgEugzozxIUGMMsbSh2L9RBt3"><img src="https://drive.google.com/uc?export=view&id=1Ooq0dr7KgEugzozxIUGMMsbSh2L9RBt3" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version."/></a><br><br>
+<a href="https://drive.google.com/uc?export=view&id=XXX"><img src="https://drive.google.com/uc?export=view&id=XXX" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version."/></a><br><br>
 2. Pin configuration<br>
 
 3. Main function flowchart: <br>
-<a href="https://drive.google.com/uc?export=view&id=1AqBP49oPx8ktcITM_EOvJU8CYTXIsJmy"><img src="https://drive.google.com/uc?export=view&id=1AqBP49oPx8ktcITM_EOvJU8CYTXIsJmy" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version."/></a><br>
+<a href="https://drive.google.com/uc?export=view&id=XXX"><img src="https://drive.google.com/uc?export=view&id=XXX" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version."/></a><br>
 <h3 align="left">III. Contribution</h3>
 Tran Van Tuong - Leader<br>
 Duong Ton Dung - Member<br>
