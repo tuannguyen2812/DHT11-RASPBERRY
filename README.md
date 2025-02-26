@@ -7,14 +7,14 @@ In this project, we designed a temperature and moisture measurement system based
   
 <h3 align="left">II. Software Design</h3>
 1. Circuit configuration<br>
-<a href="https://drive.google.com/uc?export=view&id=XXX"><img src="https://drive.google.com/uc?export=view&id=XXX" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version."/></a><br><br>
+<a href="https://drive.google.com/uc?export=view&id=1DhazTgYg5aNPtRysJv5b95U-0DPjjpIN"><img src="https://drive.google.com/uc?export=view&id=1DhazTgYg5aNPtRysJv5b95U-0DPjjpIN" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version."/></a><br><br>
 2. Pin configuration<br>
-
+<a href="https://drive.google.com/uc?export=view&id=1MJD2GgCmlXEtUIxCfsmYzV3GJRcHaTxc"><img src="https://drive.google.com/uc?export=view&id=1MJD2GgCmlXEtUIxCfsmYzV3GJRcHaTxc" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version."/></a><br><br>
 3. Main function flowchart: <br>
 <a href="https://drive.google.com/uc?export=view&id=XXX"><img src="https://drive.google.com/uc?export=view&id=XXX" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version."/></a><br>
-<h3 align="left">III. Contribution</h3>
+<h3 align="left">III. Members</h3>
 Tran Van Tuong - Leader<br>
 Duong Ton Dung - Member<br>
 Nguyen Luu Anh Tuan - Member<br>
 Pham Minh Thuan - Member<br>
-Hoang Tuan Anh Dat
+Hoang Tuan Anh Dat - Member
